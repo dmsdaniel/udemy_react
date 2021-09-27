@@ -1,0 +1,9 @@
+.Contador button {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color:blueviolet;
+    margin: 10px;
+    color: #fff;
+    font-size: 1.4rem;
+}
